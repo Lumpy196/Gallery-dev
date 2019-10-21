@@ -1,4 +1,4 @@
-package com.yrellav.app;
+package com.gallery.app;
 
 import androidx.appcompat.app.AppCompatActivity;
 

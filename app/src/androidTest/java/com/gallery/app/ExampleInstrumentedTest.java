@@ -1,10 +1,9 @@
-package com.yrellav.app;
+package com.gallery.app;
 
 import android.content.Context;
 
 import androidx.test.internal.runner.junit4.AndroidJUnit4ClassRunner;
 import androidx.test.platform.app.InstrumentationRegistry;
-
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -23,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.yrellav.app", appContext.getPackageName());
+        assertEquals("com.gallery.app", appContext.getPackageName());
     }
 }

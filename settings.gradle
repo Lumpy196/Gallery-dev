@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='vallery-dev'
+rootProject.name='gallery-dev'
